@@ -10,7 +10,7 @@
 
   远程接口包含**远程库** ( Remote Library )、**远程服务器**( Remote Server )以及在这些机器上运行的实际**测试库**( Test Library)，上层结构如下图所示。
 
-  ![Architure](E:\robotFramework\Architecture.png)
+  ![Architure](Architecture.png)
 
 ​        远程库是一个自动化框架的标准库，因此随着自动化框架自动安装。其本身并没有任何关键字，而是以代理的方式工作在自动化框架和远程服务器之间。
 
